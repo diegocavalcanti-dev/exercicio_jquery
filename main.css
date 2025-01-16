@@ -18,7 +18,7 @@ header {
     align-items: center;
     justify-content: center;
     margin-bottom: 40px;
-    background-color: #ac90ec;
+    background-color: #4d11da;
     padding: 20px;
     color: #fff;
 }
@@ -40,7 +40,7 @@ header h1 {
     text-align: center;
     flex: 1;
     padding: 20px;
-    background: #fff;
+    background: #8f94e0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
@@ -68,7 +68,7 @@ form input:focus {
 }
 
 form button {
-    background-color: #8a6df3;
+    background-color: #4d2aca;
     color: #fff;
     font-size: 20px;
     font-weight: bold;
